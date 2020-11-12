@@ -15,8 +15,8 @@ but the developer is responsible for building the Dart interface.
 
 ## About <img src="http://upte.ch/img/logo.png" width="180">
 
-`modular_permission_microphone` is maintained and funded by [UpTech Works, LLC][uptech], a
+`modular_permission_microphone`is maintained and funded by [UpTech Works, LLC](http://upte.ch/), a
 software product, design & development consultancy.
 
-We love open source software. See [our other projects][community] or
-[hire us][hire] to design, develop, and grow your product.
+We love open source software. See [our other projects](https://github.com/uptech) or
+[hire us](http://upte.ch/) to design, develop, and grow your product.
